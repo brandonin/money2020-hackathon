@@ -1,0 +1,20 @@
+{
+  "name": "money2020-hackathon",
+  "version": "1.0.0",
+  "description": "This repository was created for Money 2020 hackathon October 20, 2018.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonin/money2020-hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonin/money2020-hackathon/issues"
+  },
+  "homepage": "https://github.com/brandonin/money2020-hackathon#readme"
+}
